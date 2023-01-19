@@ -41,7 +41,7 @@ Home Assistant написан на языке Python и предназначен
 Если у Вас пока нет возможности развернуть Home Assistant на выделенном для него железе, или Вы желаете сначала просто попробовать его в действии, не тратя на это лишние деньги, то на этот случай есть, как минимум, два варианта:
 
 - Установка Home Assistant OS в виртуальной машине, на существующем ПК или NAS. Описание этого варианта установки для VirtualBox, KVM, VmWare и Hyper-V находятся [здесь](https://www.home-assistant.io/installation/windows#install-home-assistant-operating-system).
-- Установка Home Assistant Core напрямую в Windows. Используется сборка [HassWP](https://github.com/AlexxIT/HassWP) авторства [Alexxit](https://github.com/alexxit)
+- Установка Home Assistant Core напрямую в Windows. Используется сборка [HassWP](https://github.com/AlexxIT/HassWP) авторства [AlexxIT](https://github.com/alexxit)
 
 Если же Вы серьёзно настроились установить Home Assistant для дальнейшего использования, то читайте дальше для выбора подходящего лично для Вас варианта установки Home Assistant.
 
